@@ -1,5 +1,3 @@
-# user-feedback-tracker
-A beginner-friendly product management project focused on collecting and prioritizing user feedback.
 # 📝 User Feedback Tracker
 
 A simple, beginner-friendly product designed to help teams collect, manage, and prioritize user feedback.
